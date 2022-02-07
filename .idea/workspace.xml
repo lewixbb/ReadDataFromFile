@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c0a327-fd48-4f8c-b370-b3bfda3dca7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24daU4hMK9TSWVpmnkLKkQLRfLT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zad1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewix\IdeaProjects\Zadanko" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderMain" />
+      <module name="Zadanko" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c0a327-fd48-4f8c-b370-b3bfda3dca7f" name="Default Changelist" comment="" />
+      <created>1643962929060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643962929060</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2633" y="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644211757571">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2633" y="402" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644211757571" />
+    <state x="2685" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1644212917628">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644000358369" />
+    <state x="2685" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644212917628" />
+    <state x="2676" y="467" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1644208522866">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="756" y="409" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644002401009" />
+    <state x="2676" y="467" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644208522866" />
+    <state x="2660" y="354" key="FileChooserDialogImpl" timestamp="1644197980097">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2660" y="354" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644197980097" />
+    <state width="938" height="152" key="GridCell.Tab.0.bottom" timestamp="1644212948897">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644105628617" />
+    <state width="938" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644212948897" />
+    <state width="938" height="152" key="GridCell.Tab.0.center" timestamp="1644212948897">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="152" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644105628617" />
+    <state width="938" height="152" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644212948897" />
+    <state width="938" height="152" key="GridCell.Tab.0.left" timestamp="1644212948896">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="152" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644105628617" />
+    <state width="938" height="152" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644212948896" />
+    <state width="938" height="152" key="GridCell.Tab.0.right" timestamp="1644212948897">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="152" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644105628617" />
+    <state width="938" height="152" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644212948897" />
+    <state width="938" height="230" key="GridCell.Tab.1.bottom" timestamp="1644205962194">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="938" height="230" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644205962194" />
+    <state width="938" height="230" key="GridCell.Tab.1.center" timestamp="1644205962193">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="938" height="230" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644205962193" />
+    <state width="938" height="230" key="GridCell.Tab.1.left" timestamp="1644205962193">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="938" height="230" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644205962193" />
+    <state width="938" height="230" key="GridCell.Tab.1.right" timestamp="1644205962193">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="938" height="230" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644205962193" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1644002569867">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1200@0.0.1920.1050" timestamp="1644002569867" />
+    <state x="2512" y="145" width="736" height="909" key="find.popup" timestamp="1644208491321">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2512" y="145" width="736" height="909" key="find.popup/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644208491321" />
+    <state x="2543" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1644211368577">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2543" y="265" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1200@1920.0.1920.1200" timestamp="1644211368577" />
+  </component>
+</project>
